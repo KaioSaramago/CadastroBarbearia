@@ -1,0 +1,189 @@
+situacao 
+
+2016-06-29
+(u'joao', u'Corte, Barba', 20, u'2016-06-29')
+
+
+Ganho total durante o dia: 20 
+Ganho descontado durante o dia: 18.0
+
+2016-06-28
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-27
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-26
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-25
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-24
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-23
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-22
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-21
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-20
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-19
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-18
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-17
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-16
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-15
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-14
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-13
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-12
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-11
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-10
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-09
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-08
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-07
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-06
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-05
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-04
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-03
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-02
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-06-01
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-05-31
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+
+2016-05-30
+
+
+Ganho total durante o dia: 0 
+Ganho descontado durante o dia: 0.0
+

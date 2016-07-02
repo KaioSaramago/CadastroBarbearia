@@ -1,0 +1,5 @@
+Sócios 
+
+Nomes/Logins
+
+ (u'Admin', u'admin')
